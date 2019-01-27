@@ -1,10 +1,6 @@
-## Drop
-
-This is an FXGL version of the libGDX simple game [tutorial](https://github.com/libgdx/libgdx/wiki/A-simple-game).
-
 ## Game
 
-The player can move the bucket left and right to catch water droplets.
+The player can move the soccerplayer left and right with the left and right arrows.
+The player must pick up the falling footballs.
 There are no win/lose conditions.
-
-![Code](https://img.shields.io/badge/difficulty-beginner-green.svg)
+The game has been developed in FXGL, and has been used to learn the basics of FXGL, and get some practical experience.
